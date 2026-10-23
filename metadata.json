@@ -1,0 +1,6 @@
+{
+  "name": "Musical Chairs Party",
+  "description": "An interactive, animated musical chairs game with circular chair physics, 30-second music countdowns, horn cues, player scrambles, and elimination rounds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
